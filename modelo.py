@@ -17,4 +17,4 @@ print(f'Nome: {vingadores.nome} - Ano: {vingadores.ano} '
 atlanta = Serie('Atlanta', 2017, 2)
 
 print(f'Nome: {atlanta.nome} - Ano: {atlanta.ano} ' 
-      f'- Temporadas: {atlanta.temporadas}')
+      f'- Temporadas: {atlanta.temporadas}')''
