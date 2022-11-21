@@ -17,3 +17,4 @@ atlanta = Serie('Atlanta', 2017, 2)
 
 print(f'Nome: {atlanta.nome} - Ano: {atlanta.ano} ' 
       f'- Temporadas: {atlanta.temporadas}')
+teste
