@@ -11,7 +11,8 @@ class Serie:
         self.temporadas = temporadas
         
 vingadores = Filme('Vingadores - guerra infinita', 2018, 160)
-print(vingadores.nome)
+print(f'Nome: {vingadores.nome} - Ano: {vingadores.ano} ' 
+      f'- Duração: {vingadores.temporadas}')
 
 atlanta = Serie('Atlanta', 2017, 2)
 
